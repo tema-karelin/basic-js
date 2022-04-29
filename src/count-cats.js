@@ -20,7 +20,6 @@ function countCats(cats) {
     (element === '^^') ? catsCount+=1 : true;
   });
   return catsCount;
-  // return cats;
 }
 
 module.exports = {
