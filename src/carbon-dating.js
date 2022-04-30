@@ -1,3 +1,28 @@
+/*
+@task list
+% Count cats!
+% Carbon dating
+% Dream team
+% What season?
+% Tower of Hanoi
+^ Transform array
+^ Chain maker
+^ Recursive depth calculator
+^ Extended repeater
+^ Vigenere cipher
+^ (ST) Common character count
+^ (ST) Delete digit
+^ (ST) DNS stat
+^ (ST) Encode line
+^ (ST) File names
+^ (ST) Get email domain
+^ (ST) Is MAC-48 Adress?
+^ (ST) Matrix elements sum
+^ (ST) Minesweeper
+^ (ST) Sort by height
+^ (ST) Sum digits
+*/
+
 const { NotImplementedError } = require('../extensions/index.js');
 
 const MODERN_ACTIVITY = 15;
