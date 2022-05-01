@@ -7,7 +7,7 @@
 % Tower of Hanoi
 % Transform array
 % Chain maker
-^ Recursive depth calculator
+% Recursive depth calculator
 ^ Extended repeater
 ^ Vigenere cipher
 ^ (ST) Common character count
