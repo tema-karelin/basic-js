@@ -6,7 +6,7 @@
 % What season?
 % Tower of Hanoi
 % Transform array
-^ Chain maker
+% Chain maker
 ^ Recursive depth calculator
 ^ Extended repeater
 ^ Vigenere cipher
