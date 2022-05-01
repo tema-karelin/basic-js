@@ -5,7 +5,7 @@
 % Dream team
 % What season?
 % Tower of Hanoi
-^ Transform array
+% Transform array
 ^ Chain maker
 ^ Recursive depth calculator
 ^ Extended repeater
