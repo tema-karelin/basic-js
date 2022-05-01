@@ -8,7 +8,7 @@
 % Transform array
 % Chain maker
 % Recursive depth calculator
-^ Extended repeater
+% Extended repeater
 ^ Vigenere cipher
 ^ (ST) Common character count
 ^ (ST) Delete digit
