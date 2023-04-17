@@ -24,6 +24,7 @@ class VigenereCipheringMachine {
     this.notReverse = notReverse; 
   }
   encrypt(text, cipher) {
+    console.log("\n==========  ENCRYPT  ==========");
     //проверка аргументов 
     if (text === undefined || cipher === undefined) throw new Error('Incorrect arguments!');
 
@@ -108,6 +109,7 @@ class VigenereCipheringMachine {
 
   }
   decrypt(text, cipher) {
+    console.log("\n==========  DECRYPT  ==========");
     //проверка аргументов 
     if (text === undefined || cipher === undefined) throw new Error('Incorrect arguments!');
 
@@ -196,6 +198,10 @@ class VigenereCipheringMachine {
 
   }
 }
+
+//tests
+
+
 
 module.exports = {
   VigenereCipheringMachine
